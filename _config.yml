@@ -14,16 +14,16 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag 设置 › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # 主标题
+title: ifxog的小站 # 主标题
 
-tagline: 一款专注文本的 Jekyll 主题 # 它将显示为副标题
+tagline:  # 它将显示为副标题
 
 description: >- # 用于 SEO 元数据和 Atom 订阅源
-  一款简约、响应式且功能丰富的 Jekyll 主题，适用于技术写作。
+  
 
 # 填写你站点的协议和主机名。
 # 例如 'https://username.github.io'，注意不要以 '/' 结尾。
-url: ""
+url: "https://cmr0649.github.io"
 
 github:
   username:  # 更改为你的 GitHub 用户名
@@ -34,13 +34,13 @@ twitter:
 social:
   # 更改为你的全名。
   # 它将显示为文章的默认作者以及页脚的版权所有者
-  name: 
+  name: ifxog
   email:  # 更改为你的电子邮件地址
   fediverse_handle: # 填写你的联邦宇宙账号。例如 "@username@domain.com"
   links:
     # 第一个元素用作版权所有者的链接
-    - https://twitter.com/username # 更改为你的 Twitter 主页
-    - https://github.com/username # 更改为你的 GitHub 主页
+    # https://twitter.com/username # 更改为你的 Twitter 主页
+    # https://github.com/username # 更改为你的 GitHub 主页
     # 取消下方注释以添加更多社交链接
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -159,7 +159,7 @@ pwa:
 paginate: 10
 
 # 你站点的基 URL
-baseurl: ""
+baseurl: "https://cmr0649.github.io"
 
 # ------------ 不建议修改以下选项 ------------------
 

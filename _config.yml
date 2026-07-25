@@ -31,12 +31,12 @@ github:
 twitter:
   username:  # 更改为你的 Twitter 用户名
 
-social:
+social: ifxog
   # 更改为你的全名。
   # 它将显示为文章的默认作者以及页脚的版权所有者
   name: ifxog
   email:  # 更改为你的电子邮件地址
-  fediverse_handle: # 填写你的联邦宇宙账号。例如 "@username@domain.com"
+  fediverse_handle: 
   links:
     # 第一个元素用作版权所有者的链接
     # https://twitter.com/username # 更改为你的 Twitter 主页

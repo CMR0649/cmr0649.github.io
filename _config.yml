@@ -159,7 +159,7 @@ pwa:
 paginate: 10
 
 # 你站点的基 URL
-baseurl: "https://cmr0649.github.io"
+baseurl: "cmr0649.github.io"
 
 # ------------ 不建议修改以下选项 ------------------
 

@@ -18,7 +18,7 @@ title: ifxog的小站 # 主标题
 
 tagline:  # 它将显示为副标题
 
-description: >- # 用于 SEO 元数据和 Atom 订阅源
+description:  # 用于 SEO 元数据和 Atom 订阅源
   
 
 # 填写你站点的协议和主机名。
@@ -31,20 +31,15 @@ github:
 twitter:
   username:  # 更改为你的 Twitter 用户名
 
-social: ifxog
+social:
   # 更改为你的全名。
   # 它将显示为文章的默认作者以及页脚的版权所有者
   name: ifxog
   email:  # 更改为你的电子邮件地址
   fediverse_handle: 
   links:
-    # 第一个元素用作版权所有者的链接
-    # https://twitter.com/username # 更改为你的 Twitter 主页
-    # https://github.com/username # 更改为你的 GitHub 主页
-    # 取消下方注释以添加更多社交链接
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
-
+    - https://space.bilibili.com/1974156954
+    
 # 站点验证设置
 webmaster_verifications:
   google: # 填写你的 Google 验证码

@@ -93,7 +93,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # 侧边栏的头像，支持本地或 CORS 资源
-avatar:
+avatar: /assets/img/favicons/favicon.svg
 
 # 用于 SEO `og:image` 元标签的全站社交预览图的 URL。
 # 可以在前言部分通过自定义的 `page.image` 来覆盖此项。
@@ -114,7 +114,7 @@ actions:
 
 comments:
   # 文章评论系统的全局开关。保持为空意味着禁用。
-  provider: # [disqus | utterances | giscus]
+  provider: giscus # [disqus | utterances | giscus]
   # 各提供商的选项如下：
   disqus:
     shortname: # 填写 Disqus 的 shortname。 › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -124,20 +124,20 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus 选项 › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: CMR0649/cmr0649.github.io # <gh-username>/<repo>
+    repo_id: R_kgDOTjUdaA
+    category: Announcements
+    category_id: DIC_kwDOTjUdaM4DB-N4
     mapping: # 可选，默认值为 'pathname'
     strict: # 可选，默认值为 '0'
     input_position: # 可选，默认值为 'bottom'
     lang: # 可选，默认值为 `site.lang` 的值
     reactions_enabled: # 可选，默认值为 `1`
 
-# 自托管静态资源，可选 › https://github.com/cotes2020/chirpy-static-assets
+# 自托管静态资源
 assets:
   self_host:
-    enabled: # 布尔值，保持为空表示 false
+    enabled: true
     # 指定 Jekyll 环境，为空表示两者都适用
     # 仅在 `assets.self_host.enabled` 为 'true' 时有效
     env: # [development | production]

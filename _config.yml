@@ -134,14 +134,14 @@ comments:
     lang: # 可选，默认值为 `site.lang` 的值
     reactions_enabled: # 可选，默认值为 `1`
 
-# 自托管静态资源
+# 自托管静态资源，可选 › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled: true
+    enabled: # 布尔值，保持为空表示 false
     # 指定 Jekyll 环境，为空表示两者都适用
     # 仅在 `assets.self_host.enabled` 为 'true' 时有效
     env: # [development | production]
-
+    
 pwa:
   enabled: true # PWA 功能选项（可安装）
   cache:

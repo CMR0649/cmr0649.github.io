@@ -3,9 +3,6 @@
 # 导入主题
 theme: jekyll-theme-chirpy
 
-# 网页语言 › http://www.lingoes.net/en/translator/langcode.htm
-# 如果与 `_data/locales` 文件夹中的某个文件同名，布局语言也会随之更改，
-# 否则，布局语言将使用默认值 'en'。
 lang: zh-CN
 
 # 更改为你的时区 › https://zones.arilyn.cc
@@ -23,7 +20,7 @@ description:  # 用于 SEO 元数据和 Atom 订阅源
 
 # 填写你站点的协议和主机名。
 # 例如 'https://username.github.io'，注意不要以 '/' 结尾。
-url: "https://cmr0649.github.io"
+url: "https://ifxog.cc.cd"
 
 github:
   username:  # 更改为你的 GitHub 用户名

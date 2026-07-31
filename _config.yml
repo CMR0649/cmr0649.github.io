@@ -18,8 +18,7 @@ tagline: bilibili：https://b23.tv/gVg4yM3 # 它将显示为副标题
 description:  # 用于 SEO 元数据和 Atom 订阅源
   
 
-# 填写你站点的协议和主机名。
-# 例如 'https://username.github.io'，注意不要以 '/' 结尾。
+# 填写你站点的协议和主机名
 url: "https://ifxog.cc.cd"
 
 github:
@@ -140,9 +139,9 @@ assets:
     env: # [development | production]
     
 pwa:
-  enabled: false # PWA 功能选项（可安装）
+  enabled: true # PWA 功能选项（可安装）
   cache:
-    enabled: false # PWA 离线缓存选项
+    enabled: true # PWA 离线缓存选项
     # 此处定义的路径将被排除在 PWA 缓存之外。
     # 通常它的值是另一个与当前网站共享相同域名的网站的 `baseurl`。
     deny_paths:

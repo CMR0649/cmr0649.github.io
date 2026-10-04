@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 title: ifxog的小站 # 主标题
 
-tagline: bilibili：https://b23.tv/gVg4yM3 # 它将显示为副标题
+tagline: # 它将显示为副标题
 
 description:  # 用于 SEO 元数据和 Atom 订阅源
   
@@ -126,7 +126,7 @@ comments:
     category_id: DIC_kwDOTjUdaM4DB-N4
     mapping: # 可选，默认值为 'pathname'
     strict: # 可选，默认值为 '0'
-    input_position: # 可选，默认值为 'bottom'
+    input_position: top # 可选，默认值为 'bottom'
     lang: # 可选，默认值为 `site.lang` 的值
     reactions_enabled: # 可选，默认值为 `1`
 

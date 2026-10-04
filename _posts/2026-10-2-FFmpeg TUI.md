@@ -32,5 +32,5 @@ ffmpeg -i input output.mkv
 
 关于各种选项如何选择，建议阅读[终末诗](https://www.zhihu.com/people/zhong-mo-shi)的教程：  
 [小刻也能看懂的视频压缩入门四万字超大型科普](https://zhuanlan.zhihu.com/p/1913258114746122747)  
-觉得长可以看  
+觉得太长可以看  
 [维什戴尔也能看懂的视频压缩5000字入门](https://zhuanlan.zhihu.com/p/1943027518480294814)  

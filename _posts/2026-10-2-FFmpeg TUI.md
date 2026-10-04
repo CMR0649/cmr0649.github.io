@@ -8,7 +8,8 @@ tags: [ffmpeg-tui]
 FFmpeg TUI 是一个用于 FFmpeg 的终端用户界面，已开源至GitHub：  
 **[https://github.com/CMR0649/ffmpeg-tui](https://github.com/CMR0649/ffmpeg-tui)**  
 
-![Desktop View](/assets/post_imgs/ffmpeg-tui-1.png){: w="1268" h="744" }FFmpeg TUI
+![Desktop View](/assets/post_imgs/ffmpeg-tui-1.png)
+_FFmpeg TUI 文件界面_
 
 ## 使用  
 
